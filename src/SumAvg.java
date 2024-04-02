@@ -6,10 +6,11 @@ public class SumAvg {
 
     // input array from user
     public int[] inputArray() {
-        System.out.print("Enter the size of an array: ");
+        System.out.print("\nEnter the size of an array: ");
         int size =  scanner.nextInt();
 
         int[] arr = new int[size];
+        System.out.println();
         for(int i = 0; i < size; i++) {
             System.out.print("Enter the elements no. " + (i+1) + ": ");
             arr[i] = scanner.nextInt();
@@ -23,9 +24,10 @@ public class SumAvg {
         for(int i = 0; i < arr.length; i++) {
             sum = sum + arr[i];
         }
-        System.out.println("Sum of all the elements in an array: " + sum);
+        System.out.println("\nSum of all the elements in an array: " + sum);
         int avg = (sum/arr.length);
         System.out.print("Average of all the elements of an array: " + avg);
+        System.out.println();
     }
 
     public static void main(String... args) {

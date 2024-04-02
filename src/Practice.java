@@ -1,11 +1,9 @@
  class Practice {
      public static void main(String[] args) {
-         int n = 2;
-         int i = 0;
-         for(i = 0; i < n; i++) {
-             System.out.println(i);
+         int[] arr = {355,565,545};
+
+         for(int i = 0; i < arr.length; i++) {
+             System.out.println(arr[i]);
          }
-         System.out.println("*******");
-         System.out.println(i);
      }
  }
