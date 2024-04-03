@@ -2,7 +2,7 @@
 
 class Calci {
 
-    static double firstNo = 3;
+    static double firstNo = 15;
     static double secondNo = 2;
     static double thirdNo = 4;
 
@@ -13,7 +13,7 @@ class Calci {
         // created object to access all functions (non-static)
         Calci obj = new Calci();
         double result_1 = obj.mixedFracToNum(firstNo, secondNo, thirdNo);
-        double result_2 = obj.division(firstNo, secondNo);
+        double result_2 = obj.division((int)firstNo, (int)secondNo);
         String result_3 = obj.divToMixedFrac(firstNo, secondNo);
         String result_4 = obj.squareOfNumber(firstNo);
         String result_5 = obj.cubeOfNumber(firstNo);
@@ -72,16 +72,17 @@ class Calci {
 
     // function 2 - division
 
-    public double division(double a, double b) {
+    public int division(int a, int b) {
 
-        // check if b = 0
-        if(b==0) {
-            return 0;
+        try {
+            int result = a/b;
+            System.out.println(result);
+            return result;
         }
 
-        // if not so, then do operation
-        else {
-            return a/b;
+        catch(Exception exception) {
+            System.out.println("Divide by zero is not possible.");
+            return 0;
         }
     }
 
@@ -232,6 +233,6 @@ class Calci {
     // function 15 - combination
 
     public long combination(long a, long b) {
-        return (long)(factorialOfNum(a) / (factorialOfNum(b) * factorialOfNum(a-b)));
+        return (long)(factorialOfNum(a) / (long)(factorialOfNum(b) * (long)factorialOfNum(a-b)));
     }
 }
