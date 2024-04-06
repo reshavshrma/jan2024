@@ -80,7 +80,7 @@ class Calci {
             return result;
         }
 
-        catch(Exception exception) {
+        catch(Throwable throwable) {
             System.out.println("Divide by zero is not possible.");
             return 0;
         }
