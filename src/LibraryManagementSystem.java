@@ -7,11 +7,14 @@ public class LibraryManagementSystem {
     String studentLogin; // used
     int totalNoOfBooks;
     int avalBooks;
-    boolean issuedBooks;
+    //boolean issuedBooks;
 
     // welcome mesg
     public void welcomeMesg() {
         System.out.println("\nWelcome to the SGGS E-Library\n");
+        System.out.println("Welcome to the SGGS E-Library! Here, you'll find a wealth of knowledge at your fingertips.\n" +
+                "Whether you're a student looking for academic resources or an enthusiast exploring new topics,\n" +
+                "we're here to support your quest for learning. Enjoy your journey through our virtual library!.");
     }
 
     // admin login
@@ -28,7 +31,7 @@ public class LibraryManagementSystem {
                 break;
             } else {
                 i++;
-                System.out.println("\nWrong details entered. Kindly try again." + (6-i) + " attempts left only.");
+                System.out.println("\nWrong details entered. Kindly try again. " + (6-i) + " attempts left only.");
             }
         }
     }
@@ -45,6 +48,22 @@ public class LibraryManagementSystem {
     }
 
     // admin => issue book, return book, fine
+
+    public void issueBookByAdmin() {
+        System.out.print("\nNo. of books you want to get: ");
+        int getBook = scanner.nextInt();
+
+        if (avalBooks > 0) {
+            if (avalBooks > getBook) {
+                avalBooks -= getBook;
+                System.out.println(getBook + " books issued. Renew the same within 15 days.");
+            } else {
+                System.out.println("Not enough books available for issuing.");
+            }
+        } else {
+            System.out.println("Books not available.");
+        }
+    }
 
     // student login
 
@@ -76,8 +95,9 @@ public class LibraryManagementSystem {
 
     public static void main(String[] args) {
         LibraryManagementSystem lms = new LibraryManagementSystem();
-        lms.welcomeMesg();
-        lms.AdminLogin();
-        lms.StudentLogin();
+//        lms.welcomeMesg();
+//        lms.AdminLogin();
+//        lms.StudentLogin();
+        lms.issueBookByAdmin();
     }
 }

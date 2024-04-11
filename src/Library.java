@@ -22,13 +22,13 @@ public class Library {
         System.out.println("\n********** Welcome to SGGS Library **********");
         System.out.println();
         System.out.println("Librarian Incharge: " + libInchargeName);
-        //System.out.println();
-        /*System.out.println("Welcome to our library, a haven for book lovers and knowledge seekers alike. " +
+        System.out.println();
+        System.out.println("Welcome to our library, a haven for book lovers and knowledge seekers alike. " +
                 "Step into a world where every page holds a new adventure, where stories come to life,\n" +
                 "and where learning never ends. Whether you're here to escape reality or to dive into a new" +
-                "subject, our library is here to inspire you. Explore our shelves,\ndiscover new worlds, and" +
+                "subject, our library is here to inspire you. Explore our shelves, \ndiscover new worlds, and" +
                 " let the magic of books ignite your imagination. Welcome to a place where every book has a story" +
-                "to tell and every reader finds a home.");*/
+                "to tell and every reader finds a home.");
         System.out.println();
         System.out.println("***** Total data of all books in the library *****");
         System.out.println("\nTotal number of Books: " + this.bookCount);
@@ -72,20 +72,20 @@ public class Library {
         System.out.println("Total Count of PHD Books: " + this.phdBooksCount);
     }
 
-    // issued books info
-    public void issueBooks() {
-
-    }
+//    // issued books info
+//    public void issueBooks() {
+//
+//    }
 
     // main method
     public static void main(String[] args) {
         Library library = new Library();
-        //library.libDetails("Ms. Shivangi Gupta", 3_00_000, 1_00_000, 2_00_000);
-        //library.welcomeMessage();
-        //library.totalBookCount(1_00_000, 1_00_000, 1_00_000);
-        //library.bookInfo();
-        //library.bTechBooksInfo(1_00_000);
-        //library.mTechBooksInfo(1_00_000);
+        library.libDetails("Ms. Shivangi Gupta", 3_00_000, 1_00_000, 2_00_000);
+        library.welcomeMessage();
+//        library.totalBookCount(1_00_000, 1_00_000, 1_00_000);
+//        library.bookInfo();
+//        library.bTechBooksInfo(1_00_000);
+//        library.mTechBooksInfo(1_00_000);
 
         while(true) {
             Scanner sc = new Scanner(System.in);
@@ -97,9 +97,6 @@ public class Library {
             switch (choice) {
                 case 1:
                     library.libDetails("Ms. Shivangi Gupta", 3_00_000, 1_00_000, 2_00_000);
-                    library.welcomeMessage();
-                    library.totalBookCount(1_00_000, 1_00_000, 1_00_000);
-                    library.bookInfo();
                     break;
 
                 case 2:

@@ -1,4 +1,4 @@
-public class Car {
+class CarSample {
 
     String carName;
     String color;
@@ -31,7 +31,7 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car car = new Car();
+        CarSample car = new CarSample();
         car.fillFuel(5);
         car.drive();
         car.drive();
