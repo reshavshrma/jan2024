@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80a33778-fbc5-4b5e-8b65-19e9fe6afb3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarksToGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTableUsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNoUsingForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystemExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Encapsulation/EncapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Encapsulation/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Encapsulation/StringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Encapsulation/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/StaticExample/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/StaticExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/StaticExample/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/inheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/inheritance/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/inheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/same/Same.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/testOnly/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/reshav/testOnly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumDigits.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eM9sL2ZRTpi2Ziq5RjlxehqZhV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AbstractionTest.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayException.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Calci.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CarSample.executor": "Run",
+    "Application.Challenge.executor": "Run",
+    "Application.Challenge3.executor": "Run",
+    "Application.ChallengeException.executor": "Run",
+    "Application.CheckScore.executor": "Run",
+    "Application.Course.executor": "Run",
+    "Application.DeleteElement.executor": "Run",
+    "Application.Discount.executor": "Run",
+    "Application.DivideException.executor": "Run",
+    "Application.EncapTest.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Function.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.GuessNumber.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Info.executor": "Run",
+    "Application.InheritanceTest.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.LibraryManagementSystem.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MarksToGrade.executor": "Run",
+    "Application.MaxArray2.executor": "Run",
+    "Application.MaxMinArray.executor": "Run",
+    "Application.Minimum.executor": "Run",
+    "Application.Month.executor": "Run",
+    "Application.MultiplicationTableUsingForLoop.executor": "Run",
+    "Application.NumberGuess.executor": "Run",
+    "Application.Occurrence.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeNoUsingForLoop.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Same.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.Sample1.executor": "Run",
+    "Application.ShapeTest.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.StringBuilder.executor": "Run",
+    "Application.StringCheck.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SumAvg.executor": "Run",
+    "Application.SumDigits.executor": "Run",
+    "Application.SumOdd.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.SystemExit.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ToString.executor": "Run",
+    "Application.TryCatch.executor": "Run",
+    "Application.in.reshav.Encapsulation.Encapsulation.executor": "Run",
+    "Application.in.reshav.Main.executor": "Run",
+    "Application.in.reshav.StaticExample.Test.executor": "Run",
+    "Application.in.reshav.testOnly.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/Java Programming/src/Example.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.in.reshav.testOnly.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reshav.StaticExample.Main" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reshav.StaticExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="Java Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="in.reshav.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reshav.Main" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reshav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="in.reshav.StaticExample.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reshav.StaticExample.Test" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reshav.StaticExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="in.reshav.testOnly.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.reshav.testOnly.Main" />
+      <module name="Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reshav.testOnly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.in.reshav.testOnly.Main" />
+        <item itemvalue="Application.in.reshav.Main" />
+        <item itemvalue="Application.in.reshav.StaticExample.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Swap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a33778-fbc5-4b5e-8b65-19e9fe6afb3c" name="Changes" comment="" />
+      <created>1711703788577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711703788577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Programming$Input.ic" NAME="Input Coverage Results" MODIFIED="1711713147842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
