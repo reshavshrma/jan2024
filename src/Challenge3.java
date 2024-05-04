@@ -218,16 +218,14 @@ public class Challenge3 {
 
         // even or odd using bit-wise operators
 
-        /*while(true) {
-            System.out.print("Enter a number: ");
-            int num = scanner.nextInt();
+        System.out.print("Enter a number: ");
+        int num = scanner.nextInt();
 
-            if((num & 1) == 1) {
-                System.out.println("Odd");
-            } else {
-                System.out.println("Even");
-            }
-        }*/
+        if((num & 1) == 1) {
+            System.out.println("Odd");
+        } else {
+            System.out.println("Even");
+        }
 
 
     }

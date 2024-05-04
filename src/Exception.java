@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Exception {
+public class Exception extends Throwable {
     Scanner scanner = new Scanner(System.in);
     public void divisionMethod() throws Throwable {
         while(true) {
